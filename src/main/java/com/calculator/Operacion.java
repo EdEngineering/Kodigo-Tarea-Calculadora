@@ -22,4 +22,8 @@ public class Operacion {
   public Numero getNumero2() {
       return numero2;
   }
+
+  public void setTipo(String tipo) {
+      this.tipo = tipo;
+  }
 }
